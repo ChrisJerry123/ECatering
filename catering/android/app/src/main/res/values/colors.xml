@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "backGroundColor">#260868</color>
+    <color name = "mainColor">#FFC700</color>
+    <color name = "greyColor">#8D92A3</color>
+</resources>
